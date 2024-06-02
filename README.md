@@ -5,7 +5,7 @@
 [![Language](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![ML Tool](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Framework](https://img.shields.io/badge/sklearn-darkorange.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
-![reposize](https://img.shields.io/github/repo-size/Oyebamiji-Micheal/End-to-End-Customer-Churn-Prediction-using-MLflow-and-DVC)
+![reposize](https://img.shields.io/github/repo-size/Oyebamiji-Micheal/Facial-Reconstruction-using-Conditional-Generative-Adversarial-Network)
 [![Topic](https://img.shields.io/badge/Deep%20Learning-lightblue.svg?style=flat)]()
 [![Model](https://img.shields.io/badge/Conditional%20GAN-lightgreen.svg?style=flat)](https://arxiv.org/abs/1611.04076)
 
